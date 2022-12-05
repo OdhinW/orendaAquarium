@@ -1,0 +1,37 @@
+const data = {
+  products: [
+    {
+      name: 'Platy Fish',
+      slug: 'platy-fish',
+      category: 'Fish',
+      Image: '/images/p1.jpg',
+      price: 60,
+      countInStock: 60,
+      rating: 4.3,
+      numReviews: 15,
+      description: 'Beginner fish',
+    },
+    {
+      name: 'Molly Fish',
+      slug: 'mlaty-fish',
+      category: 'Fish',
+      Image: '/images/p1.jpg',
+      price: 80,
+      countInStock: 65,
+      rating: 4.0,
+      numReviews: 13,
+      description: 'Beginner fish',
+    },
+    {
+      name: 'Gold Fish',
+      slug: 'pgold-fish',
+      category: 'Fish',
+      Image: '/images/p1.jpg',
+      price: 160,
+      countInStock: 30,
+      rating: 4.9,
+      numReviews: 15,
+      description: 'Beginner fish',
+    },
+  ],
+};
